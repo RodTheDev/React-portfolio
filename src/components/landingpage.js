@@ -26,8 +26,10 @@ class Landing extends Component {
           </span>
         </Typing>
         <div className="social">
+        
           <i className="fab fa-linkedin"></i>
           <i className="fab fa-free-code-camp"></i>
+          <i className="fab fa-github"></i>
         </div>
       </Cell>
       </Grid>
